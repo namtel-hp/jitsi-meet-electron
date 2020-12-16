@@ -3,13 +3,13 @@ export default {
     /**
      * The URL with extra information about the app / service.
      */
-    aboutURL: 'https://jitsi.org/what-is-jitsi/',
+    aboutURL: 'https://saza.vn/',
 
     /**
      * The URL to the source code repository.
      */
-    sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
-
+    /**sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
+*/
     /**
      * Application name.
      */
